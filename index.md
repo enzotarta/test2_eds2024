@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
-image: null
+landing-title: 'ELLIS Doctoral Symposium 2024'
+description: This is a test
+image: assets/images/eds.png
 author: null
 show_tile: false
 ---
